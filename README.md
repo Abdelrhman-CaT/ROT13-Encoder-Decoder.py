@@ -1,7 +1,7 @@
-# ROT13-Encryptor-Decryptor.py
-An Encryption tool using ROT13 Algorithm
+# ROT13-Encoder-Decoder.py
+An Encoding tool using ROT13 Encoding Algorithm
 
 ## Instructions:
-1- Specify whether you want to Encrypt or Decrypt 2- Enter the phrase you want to Encrypt or Decrypt
+1- Specify whether you want to Encode or Decode 2- Enter the phrase you want to Encode or Decode
 
 Good Luck!
